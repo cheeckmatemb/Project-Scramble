@@ -1,10 +1,10 @@
 <div align = "center">
 
-# **Project Scramble**
+# **🎮 Memory Game Project 🎮**
 
-A classic Scramble implementation in C#, leveraging Object-Oriented Programming (OOP) principles.
+A classic Memory Game implementation in C#, leveraging Object-Oriented Programming (OOP) principles.
 
-This repository focuses on game logic and UI, featuring difficulty levels, total customization and performance records.
+This repository focuses on game logic and UI, featuring adjustable difficulty levels, full customization and score tracking.
 
 </div>
 
@@ -14,7 +14,7 @@ This repository focuses on game logic and UI, featuring difficulty levels, total
 
 - **Axel Armando Belin Castorena** B.Sc. in Intelligent Computing Engineering Universidad Autónoma de Aguascalientes (UAA)
 
-- **Brandon Alejandro Herrera Rodriguez** B.Sc. in Intelligent Computing Engineering Universidad Autónoma de Aguascalientes (UAA)
+- **Brandon Alejandro Herrera Rodríguez** B.Sc. in Intelligent Computing Engineering Universidad Autónoma de Aguascalientes (UAA)
 
 - **Ian Christopher Hernández Mera** B.Sc. in Intelligent Computing Engineering Universidad Autónoma de Aguascalientes (UAA)
 
